@@ -8,6 +8,10 @@
 		<data>
 		85iaADE5tc/NukRC+KGdiZaZ0ZA=
 		</data>
+		<key>flutter_assets/AssetManifest.bin</key>
+		<data>
+		hVICrDIFvuvvo2sUOfBMvsyMXJQ=
+		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
 		Zl92ffq0TKth7CW86qOngmK0vqY=
@@ -22,7 +26,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		Gcz7pRUpKy0XteOzv1uM5r1+ywM=
+		1s5LshWWMvypboojztKM9/mw874=
 		</data>
 		<key>flutter_assets/assets/fruit.png</key>
 		<data>
@@ -54,11 +58,11 @@
 		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
-		G7f+W7DM6WgAF6e4R0YmmZObSn4=
+		gLUZUNbndCKs00+ddk9hgePiKHQ=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		xPi40sf6VKzvAUWBxj2HUdZaGBQ=
+		ylJBCxz1At7NAtiMHYIE006qA9U=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -70,11 +74,18 @@
 		</data>
 		<key>flutter_assets/vm_snapshot_data</key>
 		<data>
-		GIVOmCdKRJPjhwyeBDaqRSmW/rc=
+		+HsWKuOINTMijVvKruokFpzcml8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>flutter_assets/AssetManifest.bin</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r8o4yPhJIk5oSeDaItm/Om7Kczu2C6NVxTNz6xh4t2Q=
+			</data>
+		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
@@ -100,7 +111,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V4Z1RD6ceHcxEycPKnCoSIp/vb8WqyUtmWHzRzfGQSk=
+			onZRqtLyv4j+Sz1F4jZyPuA+Xu5b/IJ93QCH38l+HyY=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/fruit.png</key>
@@ -156,14 +167,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a0WltY9enMx/xAaluQU9u54Z/KOGA8WPZlZ1IIuzDMM=
+			rnNRNqkjfwz6o+ECah8gei8ooCiw3YLryTTvYxQ0uLg=
 			</data>
 		</dict>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/fbZpOO0wI3OFJ68+4dX3YrC3nG+StrSk5Ki8OnxJiA=
+			QHKuqZG4Rd7u/SHRgNVfPs9UCzRps1nsIBuzaOn8Xbc=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -184,7 +195,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K4h+E8VrnmlmBepiVsQbyWlUOtVSA/UGiqBRPbjQJ+8=
+			XRpcsR0vWGkDzG+35GjjzaJtqN3CuV3azmWWPti/o3M=
 			</data>
 		</dict>
 	</dict>
